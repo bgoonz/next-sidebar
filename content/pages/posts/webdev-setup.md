@@ -36,7 +36,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
   robots:
-    - all
+    - null
 layout: post
 hide_header: false
 ---
