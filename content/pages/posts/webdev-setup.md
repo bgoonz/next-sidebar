@@ -7,9 +7,7 @@ thumb_img_alt: bgoonz
 content_img_path: /images/back.jpeg
 seo:
   title: Blog Versions
-  description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  description: A list of all my deploys
   extra:
     - name: 'og:type'
       value: article
