@@ -35,6 +35,8 @@ seo:
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
+  robots:
+    - all
 layout: post
 hide_header: false
 ---
