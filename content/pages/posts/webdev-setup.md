@@ -38,6 +38,7 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
+hide_header: false
 ---
 
 [Data Structures Website](https://trusting-dijkstra-4d3b17.netlify.app/)
