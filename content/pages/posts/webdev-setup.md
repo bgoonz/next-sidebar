@@ -6,7 +6,7 @@ thumb_img_path: /images/music-profile-narrow.png
 thumb_img_alt: bgoonz
 content_img_path: /images/back.jpeg
 seo:
-  title: Fox Village In Japan
+  title: 'Blog '
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
