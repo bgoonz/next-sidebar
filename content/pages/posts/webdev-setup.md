@@ -38,7 +38,7 @@ seo:
     - name: embed
       value: ''
       keyName: name
-      relativeUrl: false
+      relativeUrl: true
   robots:
     - null
 layout: post
