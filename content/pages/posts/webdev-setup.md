@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
-    - name: ''
+    - name: embed
       value: ''
       keyName: name
       relativeUrl: false
