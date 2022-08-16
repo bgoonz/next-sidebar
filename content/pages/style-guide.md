@@ -12,6 +12,7 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
+      relativeUrl: true
     - name: 'og:title'
       value: Theme Style Guide
       keyName: property
