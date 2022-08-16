@@ -3,6 +3,9 @@
 
 https://important-coriander-d93f6.stackbit.app/
 
+
+https://bgoonzblog20-3cb5f.stackbit.app/
+
 This is Stackbit's "Fjord" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
 
